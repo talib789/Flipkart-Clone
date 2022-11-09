@@ -5,7 +5,7 @@ React.js, Redux and Material-ui has been used in the frontend, and for the backe
 MERN stack project
 
 ## DEMO
-## 
+### > • Deployed Link - [FlipKart-Clone](https://flipcart-clone-talib.herokuapp.com/)
 
 ##SCREENSHOTS
 ![](https://snipboard.io/xGj7Cs.jpg)
