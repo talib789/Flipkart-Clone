@@ -3,11 +3,10 @@
 React.js, Redux and Material-ui has been used in the frontend, and for the backend Node.js, Express.js and MongoDB has been used Also it has a Dummy payment options via Paytm
 # Flipkart-clone
 MERN stack project
-
 ## DEMO
 ### > • Deployed Link - [FlipKart-Clone](https://flipcart-clone-talib.herokuapp.com/)
 
-##SCREENSHOTS
+## SCREENSHOTS
 ![](https://snipboard.io/xGj7Cs.jpg)
 ## LOGIN
 ![](https://snipboard.io/w93M5E.jpg)
