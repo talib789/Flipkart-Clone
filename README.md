@@ -74,4 +74,3 @@ MERN stack project
 - **MongoDB**
 - **ExpressJS **
 - **NodeJS **
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666255768966/S7tsjvj5s.png" alt="login"/>
