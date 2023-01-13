@@ -4,7 +4,7 @@ React.js, Redux and Material-ui has been used in the frontend, and for the backe
 # Flipkart-clone
 MERN stack project
 ## DEMO
-### > • Deployed Link - [FlipKart-Clone](https://flipcart-clone-talib.herokuapp.com/)
+### > • Deployed Link - [FlipKart-Clone](https://flipkart-clone-project-m.netlify.app)
 
 ## SCREENSHOTS
 ![](https://snipboard.io/xGj7Cs.jpg)
