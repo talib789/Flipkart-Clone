@@ -3,7 +3,7 @@
 # Flipkart-clone
 MERN stack project
 ## DEMO
-### > • Deployed Link - [FlipKart-Clone](https://flipkart-clone-project-m.netlify.app)
+### • Deployed Link - [FlipKart-Clone](https://flipkart-clone-project-m.netlify.app)
 ## FUNCTIONALITIES
 - Users can register themselves.
 - Users can log in by entering their credentials and exploring our website.
