@@ -1,7 +1,5 @@
 # Flipkart-Clone
 - Flipkart Private Limited is an Indian e-commerce company established in 2007. It started with a primary focus on online book sales and soon, expanded to lifestyle products, electronics, home essentials and groceries.
-# Flipkart-clone
-MERN stack project
 ## DEMO
 ### • Deployed Link - [FlipKart-Clone](https://flipkart-clone-project-m.netlify.app)
 ## FUNCTIONALITIES
