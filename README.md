@@ -1,11 +1,17 @@
 # Flipkart-Clone-MERN-
-- This app is a clone of the original flipkart website having Login, Logout and Add to Cart functionalities. 
-React.js, Redux and Material-ui has been used in the frontend, and for the backend Node.js, Express.js and MongoDB has been used Also it has a Dummy payment.
+- Flipkart Private Limited is an Indian e-commerce company established in 2007. It started with a primary focus on online book sales and soon, expanded to lifestyle products, electronics, home essentials and groceries.
 # Flipkart-clone
 MERN stack project
 ## DEMO
 ### > • Deployed Link - [FlipKart-Clone](https://flipkart-clone-project-m.netlify.app)
-
+## FUNCTIONALITIES
+- Users can register themselves.
+- Users can log in by entering their credentials and exploring our website.
+- Data stored in JSON SERVER and REDUX STORE.
+- You can sort and filter products according to your choice
+- Add-to-cart functionality and user can buy that selected product.
+- Implemented payment functionalities also
+- You can see some glimpse of our project below👇
 ## HOMEPAGE
 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666254871399/QQ3d6gUok.png" alt="login"/>
@@ -70,5 +76,6 @@ MERN stack project
 - **REACT**
 - **CHAKRA UI**
 - **REDUX**
+- JSON SERVER
 - **REACT LIBRARIES**
 
