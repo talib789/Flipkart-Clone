@@ -71,6 +71,4 @@ MERN stack project
 - **CHAKRA UI**
 - **REDUX**
 - **REACT LIBRARIES**
-- MongoDB
-- ExpressJS
-- NodeJS 
+
